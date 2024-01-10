@@ -105,6 +105,7 @@ const App = () => {
             </Button>
           ))}
         </FilterContainer>
+      
       </Container>
       <SearchResult data={filteredData} />
     </>
